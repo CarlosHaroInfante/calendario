@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.cadgris{
+	background-color: gray;
+	color: white;
+}
+
+table{
+	border: solid 2px black;
+	
+}
+td{
+	border: solid 1px black;
+	padding: 0px;
+}
+
+.naranja{
+	background-color: orange;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.mezcla{
+	background-color: sandybrown;
+}
+div{
+	height: 150px;
+	overflow: auto;
+}
+
+
